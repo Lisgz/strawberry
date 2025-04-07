@@ -1,0 +1,40 @@
+
+
+
+#slicing
+# [::1] does not slice
+# [1::] slices off the first character of text
+# [-1::] slices off the last character of text
+# [::-1] reverses the slice
+
+
+#round function will round the number up
+#floor function rounds the number down
+#ceil function will raise the number
+# use int for units
+
+
+#data structure
+#list needs to be build then anything can be added(appended)
+#now put the list in alphabetical order so add a sort()
+#finally just print it
+
+
+#when asked to analye the code look at each line of code carefully 
+#if theres a sort() under the line of code make sure to apply it then do as asked
+
+#equal is alway calculated last
+
+#remeber // is no decimal / is with decimal
+
+# in is a keyword
+
+
+#lodical operators 1.not 2.and 3.or
+
+#for loops are set to run a number of times while loop keeps running
+
+#\ tells python to continues the code on the line below on the current line
+#\n tells python to print a new line
+#\t tells python to insert a tab
+#\\ tells python to use the \ character
