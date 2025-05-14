@@ -1,0 +1,9 @@
+R stands for read
+R+ stands for both read and write
+W = write
+W+ = read and write
+rgb = red, greeen, red colors 
+0 = abssense of color+
+255 = pure color
+pay attention to the order of the code
+\n move the text to the next line
